@@ -1,4 +1,4 @@
-# YouTube Script Generator 🚀
+# ChainScribe 🚀
 
 This project uses LangChain and Streamlit to automatically generate a title and a full video script for a YouTube video based on a user-provided topic.
 
